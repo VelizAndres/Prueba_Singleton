@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "loggercloud-cadb5",
+  "private_key_id": "218f2cd8e2b0eca27d7c6c9eba09702f5744cfbc",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDJVxy7w/LbSYdI\ny5l7ogpqPRl4sLPM2qVeQyacJHJWQKtWzXj3L1bcucTYaaQLVm3bMpAyCAkWQ3N/\nNlWf+fgS75LQZA18162KaMt22T3/ShqG34fIItNYHCTyff0BQM9ca8CJ9l6L5wbo\nRb12rLqEJ7BQdhFECsaBTzRb4Be09Z0fIhs6iDWpvSI0MFwm1JbTQkLo4c2YPnR4\n3LiD7taDaaQtEJB5yw2JmImENY2AscF9oBukX9+tFDLLwcmn+wF9eJmm1MJixhmH\nOub6c3r9gXbrA1jUYhTYdel/FvTh532v2ftAZLLqcJeRrG/LS2uJEEhfXJ0BYWhq\nJUsCrFxLAgMBAAECggEANpk05YYhmW27DfaITIqIoH6pJZ1lZKv2JDW5hqYri1BG\nJmfZ4c4ok/qccsNTBPAPIl331FlxfWQVMe4eEh/LMfddrL01GyGxodMBOd13fn8t\n6l07iP5IqaAYNNoNfgWBNeLSd5cj1HR13w7qbgAxJB1PJsKdtAHoCrDb1f5S73Mf\n+6ktkvLqGJvkVfo1AR30cAidlmwpirPJl/Un49/TEG4YXRUpnluIlrH8WmQZt+7S\nXhb3JRNVv6w4hfLDswaIY0vRQXbZip+JzwKTugOhd2rDsD4NSvZXa051Y3h+21T+\niRRAqWPstE6WxZts1McPp7mEgRTcrf0ceG5ughvOAQKBgQD2JTyeu05veLinAKcd\nwn9CpsfEHalEd4aHZtweF3fo2VY8/SvR1xxhWO9NJ2VbHk4BVvTkwtH+E3l+GCxP\nHetf3pjI+U8LKaOBaPMORCTuAaPKNgkTvRvscDpQ9Hap4+TFc+PyFvmm4LdzDcw6\nk7ixWl8YAGvhr1iYS7pHNtGBiwKBgQDRZqnyyVD6vyJfK/OQn6NSeWJjJpQ1ItTJ\n7TO2lZvDFJibK8fWuh3Vlfmva/XgvPVgqeeyPf8eda3ynEIyJPc1neRNLGWxq6pl\nNEkTIQamaE0QhFKFCHinuIa4ffsCR6ZFt0hZDify2vJtzadcVlfVrxt+AOMM+5Se\nQaON185oQQKBgFv9zKsSG51Dg9c+Qja4EvGo/S3JXBJvjUKbaZaBdNn8J+PBRpg1\nCbFEGKNAHvwv1j1f70RznyGSy6wZgq3K48W/nmA19JmaZTYfL/9b7mVZDYqsKTZM\nTdxOkSziQFr8BerZhg5bEdCRWV5RgMs/nB4ERVfmCGufKcA5RRQKY8BDAoGAHeC/\nKQQuiMiS1++GfkE45YCqWCleBkLlB7bPpSKtqeUbbTCPAAVoUlxm1u/ZkmqDvHoh\ntB4Cc88otbA0BcGegEj6FUTbccFju7L9JjyVHVNOg6fNumueA5hhqJtZIFcm01W2\nffZ2HsG8y4wHcDZlq/ijPJRV0TloWDhXZNrA+cECgYBLABbHcZQjmC7WhktNzHds\nfwyXilOa+P3NKUF/aPepxuAqJVyTSxFM9YvtC5fiMwD/IiHSPo120ux3gMJ9E9i/\n7txS44zNZdFyObaPRitqKBEJHHSgAWCSo9uCDi3CJz5K/ke+APrlm8y4/17Ez2w5\nlgEcKbsPVAu2ztWQuC3muw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-rxhpf@loggercloud-cadb5.iam.gserviceaccount.com",
+  "client_id": "114466238457920330696",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-rxhpf%40loggercloud-cadb5.iam.gserviceaccount.com"
+}
